@@ -1,0 +1,61 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'com.github.exch-bms2'
+version '0.6.2-SNAPSHOT'
+
+mainClassName = 'bms.player.beatoraja.MainLoader'
+sourceCompatibility = 1.8
+
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = 'UTF-8'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile name: 'commons-compress', group: 'org.apache.commons', version: '1.18'
+    compile name: 'commons-dbutils', group: 'commons-dbutils', version: '1.7'
+    compile name: 'ffmpeg', group: 'org.bytedeco.javacpp-presets', version: '4.0.1-1.4.2'
+    compile name: 'ffmpeg-platform', group: 'org.bytedeco.javacpp-presets', version: '4.0.1-1.4.2'
+    compile name: 'FFmpeg-linux-x86', group: 'com.github.hoary.ffmpeg', version: '2.0.1.1'
+    compile name: 'FFmpeg-linux-x86_64', group: 'com.github.hoary.ffmpeg', version: '2.0.1.1'
+    compile name: 'FFmpeg-macosx-x86_64', group: 'com.github.hoary.ffmpeg', version: '2.0.1.1'
+    compile name: 'FFmpeg-windows-x86', group: 'com.github.hoary.ffmpeg', version: '2.0.1.1'
+    compile name: 'FFmpeg-windows-x86_64', group: 'com.github.hoary.ffmpeg', version: '2.0.1.1'
+
+    compile name: 'gdx', group: 'com.badlogicgames.gdx', version: '1.9.8'
+    compile 'com.badlogicgames.gdx:gdx-platform:1.9.8:natives-desktop'
+    compile name: 'gdx-backend-lwjgl', group: 'com.badlogicgames.gdx', version: '1.9.8'
+    compile name: 'gdx-controllers', group: 'com.badlogicgames.gdx', version: '1.9.8'
+    compile name: 'gdx-controllers-desktop', group: 'com.badlogicgames.gdx', version: '1.9.8'
+    compile 'com.badlogicgames.gdx:gdx-controllers-platform:1.9.8:natives-desktop'
+    compile name: 'gdx-freetype', group: 'com.badlogicgames.gdx', version: '1.9.8'
+    compile 'com.badlogicgames.gdx:gdx-freetype-platform:1.9.8:natives-desktop'
+
+    compile name: 'javacpp', group: 'org.bytedeco', version: '1.4.2'
+    compile name: 'javacv', group: 'org.bytedeco', version: '1.4.2'
+    compile name: 'javacv-platform', group: 'org.bytedeco', version: '1.4.2'
+    compile name: 'jflac-codec', group: 'org.jflac', version: '1.5.2'
+    compile name: 'luaj-jse', group: 'org.luaj', version: '3.0.1'
+    compile name: 'sqlite-jdbc', group: 'org.xerial', version: '3.23.1'
+    compile name: 'twitter4j-core', group: 'org.twitter4j', version: '4.0.7'
+    compile files('lib/jbms-parser.jar')
+    compile files('lib/jbmstable-parser.jar')
+    compile files('lib/jportaudio.jar')
+    compile fileTree(dir: 'ir', include: '*.jar')
+}
+
+jar {
+    from configurations.compile.collect {
+        it.isDirectory() ? it : zipTree(it)
+    }
+    duplicatesStrategy = 'exclude'
+    manifest {
+        attributes 'Main-Class': 'bms.player.beatoraja.MainLoader'
+        attributes 'Bundle-NativeCode': 'jasiohost32.dll;jasiohost64.dll'
+    }
+}

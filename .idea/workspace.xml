@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5accc97-cd31-44fc-821a-b1890888e383" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/beatoraja.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/beatoraja_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/beatoraja_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beatoraja-config.command" beforeDir="false" afterPath="$PROJECT_DIR$/beatoraja-config.command" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-compress-1.16.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-dbutils.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ffmpeg-linux-x86.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ffmpeg-linux-x86_64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ffmpeg-macosx-x86_64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ffmpeg-platform.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ffmpeg-windows-x86.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ffmpeg-windows-x86_64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ffmpeg.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gdx-backend-lwjgl-natives.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gdx-backend-lwjgl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gdx-controllers-desktop-natives.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gdx-controllers-desktop.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gdx-controllers.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gdx-freetype-natives.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gdx-freetype.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gdx-natives.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gdx.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javacpp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javacv-platform.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javacv.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jflac-codec-1.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/luaj-jse.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/sqlite-jdbc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/twitter4j-core-4.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/bomb.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/bomb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/clear.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/clear.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/constraint.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/constraint.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/judgedetail.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/judgedetail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/lanecover.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/lanecover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/laser/short.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/laser/short.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/laser/veryshort.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/laser/veryshort.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/notes/default.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/notes/default.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/panel.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/panel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/play.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/ready.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/ready.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/songbar.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/songbar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/system.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/system.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/default/trophy.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/default/trophy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/BMSResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/BMSResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/ClearType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ClearType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/CourseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/CourseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/CourseDataAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/CourseDataAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/IRScoreData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/IRScoreData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/MainLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/MainLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/MainState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/MainState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/PixmapResourcePool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/PixmapResourcePool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/PlayConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/PlayConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/PlayDataAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/PlayDataAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/PlayModeConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/PlayModeConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/PlayerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/PlayerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/PlayerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/PlayerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/PlayerInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/PlayerInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/PlayerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/PlayerResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/ReplayData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ReplayData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/Resolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/ResourcePool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ResourcePool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/ScoreDataProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ScoreDataProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/ScoreDatabaseAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ScoreDatabaseAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/ScoreLogDatabaseAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ScoreLogDatabaseAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/ShaderManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ShaderManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/SkinConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/SkinConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/TableData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/TableData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/TableDataAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/TableDataAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/Validatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/Validatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/audio/AbstractAudioDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/audio/AbstractAudioDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/audio/AudioDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/audio/AudioDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/audio/FlacProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/audio/FlacProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/audio/FloatPCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/audio/FloatPCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/audio/GdxAudioDeviceDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/audio/GdxAudioDeviceDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/audio/GdxSoundDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/audio/GdxSoundDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/audio/PCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/audio/PCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/audio/PortAudioDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/audio/PortAudioDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/audio/ShortDirectPCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/audio/ShortDirectPCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/audio/ShortPCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/audio/ShortPCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/config/KeyConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/config/KeyConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/config/SkinConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/config/SkinConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/config/SkinConfigurationSkin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/config/SkinConfigurationSkin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/decide/MusicDecide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/decide/MusicDecide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/decide/MusicDecideSkin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/decide/MusicDecideSkin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/external/BMSSearchAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/external/BMSSearchAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/input/BMControllerInputProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/input/BMControllerInputProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/input/BMSPlayerInputDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/input/BMSPlayerInputDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/input/BMSPlayerInputProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/input/BMSPlayerInputProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/input/KeyBoardInputProcesseor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/input/KeyBoardInputProcesseor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/input/KeyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/input/KeyCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/input/KeyInputLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/input/KeyInputLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/input/MidiInputProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/input/MidiInputProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/ir/IRConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ir/IRConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/ir/IRResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ir/IRResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/CourseEditorView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/CourseEditorView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/CourseEditorView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/CourseEditorView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/LauncherStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/LauncherStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/NumericSpinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/NumericSpinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/PlayConfigurationView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/PlayConfigurationView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/PlayConfigurationView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/PlayConfigurationView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/SkinConfigurationView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/SkinConfigurationView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/SkinConfigurationView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/SkinConfigurationView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/SongDataView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/SongDataView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/SongDataView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/SongDataView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/VideoConfigurationView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/VideoConfigurationView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/launcher/VideoConfigurationView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/VideoConfigurationView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/AutoplayModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/AutoplayModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/ConstantBPMModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/ConstantBPMModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/LaneShuffleModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/LaneShuffleModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/LongNoteModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/LongNoteModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/MineNoteModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/MineNoteModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/ModeModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/ModeModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/NewNoteShuffleModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/NewNoteShuffleModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/NoteShuffleModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/NoteShuffleModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/PatternModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/PatternModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/PatternModifyLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/PatternModifyLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/PracticeModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/PracticeModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/pattern/Randomizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/pattern/Randomizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/BMSPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/BMSPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/BMSPlayerRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/BMSPlayerRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/ControlInputProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/ControlInputProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/GaugeProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/GaugeProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/GrooveGauge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/GrooveGauge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/JudgeAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/JudgeAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/JudgeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/JudgeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/JudgeProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/JudgeProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/KeyInputProccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/KeyInputProccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/KeySoundProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/KeySoundProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/LaneProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/LaneProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/LaneRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/LaneRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/PlaySkin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/PlaySkin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/PracticeConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/PracticeConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/RhythmTimerProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/RhythmTimerProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/SkinBGA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/SkinBGA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/SkinGauge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/SkinGauge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/SkinHidden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/SkinHidden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/SkinJudge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/SkinJudge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/SkinNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/SkinNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/TargetProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/TargetProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/bga/BGAProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/bga/BGAProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/bga/BGImageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/bga/BGImageProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/bga/FFmpegProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/bga/FFmpegProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/bga/GdxVideoProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/bga/GdxVideoProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/play/bga/MovieProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/play/bga/MovieProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/result/AbstractResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/result/AbstractResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/result/CourseResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/result/CourseResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/result/CourseResultSkin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/result/CourseResultSkin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/result/MusicResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/result/MusicResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/result/MusicResultSkin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/result/MusicResultSkin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/result/ResultKeyProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/result/ResultKeyProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/result/SkinGaugeGraphObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/result/SkinGaugeGraphObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/BarRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/BarRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/BarSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/BarSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/MusicSelectCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/MusicSelectCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/MusicSelectInputProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/MusicSelectInputProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/MusicSelectKeyProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/MusicSelectKeyProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/MusicSelectSkin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/MusicSelectSkin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/MusicSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/MusicSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/PreviewMusicProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/PreviewMusicProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/ScoreDataCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/ScoreDataCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/SearchTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/SearchTextField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/SkinBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/SkinBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/SkinDistributionGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/SkinDistributionGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/Bar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/CommandBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/CommandBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/ContainerBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/ContainerBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/DirectoryBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/DirectoryBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/FolderBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/FolderBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/GradeBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/GradeBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/HashBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/HashBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/SameFolderBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/SameFolderBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/SearchWordBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/SearchWordBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/SelectableBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/SelectableBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/SongBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/SongBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/select/bar/TableBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/select/bar/TableBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/JSONSkinLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/JSONSkinLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/PomyuCharaLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/PomyuCharaLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/Skin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/Skin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinBPMGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinBPMGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinNoteDistributionGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinNoteDistributionGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinPropertyMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinPropertyMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinSlider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinSlider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinSourceImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinSourceImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinSourceMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinSourceMovie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinTextFont.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinTextFont.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinTextImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinTextImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinTimingDistributionGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinTimingDistributionGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinTimingVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinTimingVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/SkinType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/SkinType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lr2/LR2CourseResultSkinLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lr2/LR2CourseResultSkinLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lr2/LR2DecideSkinLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lr2/LR2DecideSkinLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lr2/LR2FontLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lr2/LR2FontLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lr2/LR2PlaySkinLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lr2/LR2PlaySkinLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lr2/LR2ResultSkinLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lr2/LR2ResultSkinLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lr2/LR2SelectSkinLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lr2/LR2SelectSkinLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lr2/LR2SkinCSVLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lr2/LR2SkinCSVLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lr2/LR2SkinHeaderLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lr2/LR2SkinHeaderLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lr2/LR2SkinLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lr2/LR2SkinLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lr2/LR2SkinSelectSkinLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lr2/LR2SkinSelectSkinLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lua/LuaSkinLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lua/LuaSkinLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/lua/SkinLuaAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/lua/SkinLuaAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/property/BooleanProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/property/BooleanProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/property/BooleanPropertyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/property/BooleanPropertyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/property/FloatProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/property/FloatProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/property/FloatPropertyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/property/FloatPropertyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/property/IntegerProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/property/IntegerProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/property/IntegerPropertyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/property/IntegerPropertyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/property/StringProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/property/StringProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/skin/property/StringPropertyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/skin/property/StringPropertyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/song/FolderData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/song/FolderData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/song/SQLiteSongDatabaseAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/song/SQLiteSongDatabaseAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/song/SongData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/song/SongData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/song/SongDatabaseAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/song/SongDatabaseAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/song/SongInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/song/SongInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/song/SongInformationAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/song/SongInformationAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/player/beatoraja/song/SongUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/song/SongUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/tool/mdprocessor/IpfsInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/tool/mdprocessor/IpfsInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/tool/mdprocessor/MusicDatabaseAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/tool/mdprocessor/MusicDatabaseAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bms/tool/mdprocessor/MusicDownloadProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bms/tool/mdprocessor/MusicDownloadProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glsl/bilinear.frag" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/glsl/bilinear.frag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glsl/bilinear.vert" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/glsl/bilinear.vert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glsl/ffmpeg.frag" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/glsl/ffmpeg.frag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glsl/ffmpeg.vert" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/glsl/ffmpeg.vert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glsl/layer.frag" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/glsl/layer.frag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glsl/layer.vert" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/glsl/layer.vert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/UIResources.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/UIResources.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/UIResources_es_CL.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/UIResources_fr_FR.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/UIResources_ja_JP.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/UIResources_nb_NO.properties" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="beatoraja" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="beatoraja" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="441356358">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="1" />
+          <entry key="bat" value="2" />
+          <entry key="css" value="1" />
+          <entry key="frag" value="1" />
+          <entry key="fxml" value="7" />
+          <entry key="gradle" value="3" />
+          <entry key="gradlew" value="2" />
+          <entry key="java" value="7" />
+          <entry key="memo" value="1" />
+          <entry key="properties" value="7" />
+          <entry key="txt" value="1" />
+          <entry key="vert" value="1" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="Groovy" value="3" />
+          <entry key="JAVA" value="7" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Properties" value="7" />
+          <entry key="XML" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="2570" />
+          <entry key="java" value="580" />
+          <entry key="properties" value="2" />
+          <entry key="txt" value="55" />
+          <entry key="xml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="2570" />
+          <entry key="JAVA" value="580" />
+          <entry key="PLAIN_TEXT" value="55" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/glsl/bilinear.vert">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ShaderManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bms/player/beatoraja/MainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="408" selection-start-line="408" selection-end-line="408" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/glsl/bilinear.frag">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/UIResources.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1500" />
+          </provider>
+          <provider editor-type-id="ResourceBundle" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/UIResources_ja_JP.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+            </state>
+          </provider>
+          <provider editor-type-id="ResourceBundle" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bms/player/beatoraja/MainLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/launcher/LauncherStyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\husq\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="beatoraja" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="beatoraja" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'beatoraja'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'beatoraja'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'beatoraja'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'beatoraja'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'beatoraja'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'beatoraja'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'beatoraja'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'beatoraja'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'beatoraja'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6141259131733" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2577864411" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="20246686" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="beatoraja" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/bms/player/beatoraja/BMSResource.java" />
+        <option value="$PROJECT_DIR$/build.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/UIResources_ja_JP.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/MainLoader.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ShaderManager.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="beatoraja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beatoraja" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="beatoraja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beatoraja" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beatoraja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beatoraja" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beatoraja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beatoraja" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="natives" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beatoraja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beatoraja" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beatoraja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beatoraja" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="beatoraja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beatoraja" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beatoraja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beatoraja" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beatoraja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beatoraja" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beatoraja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535375269720" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../libgdx" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\beatoraja\lib" />
+      <recent name="D:\IdeaProjects\beatoraja\ir" />
+      <recent name="D:\IdeaProjects\beatoraja\src\main\resources\fxml\launcher" />
+      <recent name="D:\IdeaProjects\beatoraja\src\main\resources\launcher" />
+      <recent name="D:\IdeaProjects\beatoraja\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\beatoraja\src\main\resources" />
+      <recent name="D:\IdeaProjects\beatoraja\src\main\java" />
+      <recent name="D:\IdeaProjects\beatoraja\src" />
+      <recent name="D:\IdeaProjects\beatoraja\src\main" />
+      <recent name="D:\IdeaProjects\beatoraja\src\main\resources\fxml" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.run">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="clean" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="jar" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.build" />
+      <item itemvalue="Gradle.jar" />
+      <item itemvalue="Gradle.run" />
+      <item itemvalue="Gradle.clean" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5accc97-cd31-44fc-821a-b1890888e383" name="Default" comment="" />
+      <created>1528977755967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528977755967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Build" sideWeight="0.49946696" weight="0.32952183" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991684" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="SBT Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32952183" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32952183" />
+      <window_info anchor="right" id="Gradle" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build.xml">
+      <targetFilters>
+        <filter targetName="clean" isVisible="false" />
+        <filter targetName="compile" isVisible="false" />
+        <filter targetName="create_run_jar" isVisible="false" />
+        <filter targetName="make_exe_file" isVisible="false" />
+        <filter targetName="filecopy" isVisible="false" />
+        <filter targetName="make_zip" isVisible="false" />
+        <filter targetName="release" isVisible="false" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/bms/player/beatoraja/BMSResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="129" column="8" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ir/IRConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bms/player/beatoraja/audio/AbstractAudioDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manual/memo">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manual/extension.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="42" column="63" selection-start-line="42" selection-start-column="63" selection-end-line="42" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/ant.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/UIResources_ja_JP_ja_JP.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/UIResources_ja_JP.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/UIResources.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1500" />
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bms/player/beatoraja/launcher/PlayConfigurationView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ResourcePool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1324">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/launcher/PlayConfigurationView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/launcher/CourseEditorView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/launcher/SkinConfigurationView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/launcher/VideoConfigurationView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/launcher/SongDataView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/launcher/LauncherStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-platform/1.9.8/f6f0e88da88656a756bef00c5e9e2eeee7693b02/gdx-platform-1.9.8.jar!/META-INF/maven/com.badlogicgames.gdx/gdx-platform/pom.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-platform/1.9.8/f6f0e88da88656a756bef00c5e9e2eeee7693b02/gdx-platform-1.9.8.jar!/META-INF/maven/com.badlogicgames.gdx/gdx-platform/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bms/player/beatoraja/MainLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/glsl/bilinear.frag">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/glsl/bilinear.vert">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bms/player/beatoraja/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="408" selection-start-line="408" selection-end-line="408" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bms/player/beatoraja/ShaderManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>beatoraja</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.badlogicgames.gdx:gdx-backend-lwjgl:1.9.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
